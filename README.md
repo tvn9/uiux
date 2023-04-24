@@ -2,20 +2,20 @@
 
 ## Introduction
 
-A personal project to learn the basic to advance feature in Figma UI design tool, 
-this repo is the main container to store in class project assignements
+A personal project to learn the basic to advanced features of the Figma UI design tool, 
+this repo is the main container to store in-class project assignments
 and related files.
 
-## Getting Start - Create Your Own Project
+## Getting Start - Create Your Project
 
 ### Course Notes:
-Instruduction to Figma, UI/UX design concepts, and how to generate project 
+Introduction to Figma, UI/UX design concepts, and how to generate project 
 UX/UI Brief.
 
-**Assignment 01** - Create your own brief about an ideal customer 
+**Assignment 01** - Create your brief about an ideal customer 
 
-Based on a randomly generated project form [randomprojectgenerator](https://randomprojectgenerator.com), 
-The assignment is to design the Mobile and Destop apps for a Handbags e-commerce 
+Based on a randomly generated project from [randomprojectgenerator](https://randomprojectgenerator.com), 
+The assignment is to design the Mobile and Desktop apps for a Handbags e-commerce 
 company.
 
 **Solution - Example of an ideal customer**
@@ -26,13 +26,13 @@ company.
 
 ### Notes:
 
-**Low Fidelity** - is the basic sketch ether by pancil or by software tool to 
-delivery a brainstorm concept of what the app might look like and what component 
-or interactive form need to interact with end-user. 
+**Low Fidelity** - is the basic sketch either by pencil or by a software tool to 
+express a brainstorming concept of what the app might look like and what component 
+or interactive form needs to interact with the end-user. 
 
-**High Fidility** - is the fully design UI with real graphic, Typephography, images,
-detail layout of text, buttons... to demostrate, and communicate to client what the 
-end product should look like.
+**High Fidelity** - is the full UI design with real graphics, typography, images,
+layout, buttons... to demonstrate, and communicate to the client what the end 
+product should look like.
 
 ## Type, Color & Icons
 **Assignment 02** - Draw a simple wireframe 
@@ -69,15 +69,15 @@ Home Page
 
 ## Moodboard - High Fidelity
 
-**Assignment 06** - Create a moodboard
+**Assignment 06** - Create a mood board
 
-**Solution** - Some example of handbags images
+**Solution** - Some examples of handbags images
 
 <img src="p1/moodboard/Moodboard.png" width="800">
 
 ## Columns, Grid, and Colors
 
-**Assignment 07** - Create culumns layout for mobile, desktop and select color theme for the projects
+**Assignment 07** - Create columns layout for mobile and desktop, and select a color theme for the projects
 
 **Solution** - mobile and desktop 12 columns layout, and main project colors
 
@@ -86,7 +86,7 @@ Home Page
 
 ## Text & Fonts Advanced 
 
-**Assignment 08** - Create a logo, add a marketing message to home page with selected fonts.
+**Assignment 08** - Create a logo, and add a marketing message to the home page with selected fonts.
 
 **Solution** - Mobile home page and fonts example
 
@@ -96,12 +96,40 @@ Home Page
 
 ## Drawing 
 
-**Assignment 09** - create some icons and add to home page 
+**Assignment 09** - create icons and add them to the home page 
 
 **Solution** - navbar icon, stars, hamburger, search, home, person, and buttons...
 
 <img src="p1/screenshot/icons01.png" width="300">
 
-<img src="p1/screenshot/icononhomepage.png" width="300">
+<img src="p1/screenshot/icononhomepage.png" width="400">
 
-<img src="p1/screenshot/homeandfeaturepage.png" width="300">
+## Working with Photoshop
+
+**Assignment 10** - edit some images in Photoshop and add them to the project's prototype
+
+**Solution** - 
+
+<img src="p1/screenshot/homeandfeaturepage.png" width="400">
+
+<img src="p1/screenshot/addimagestophototype02.png" width="400">
+
+## Buttons
+
+**Assignment 11** - Create responsive buttons that automatically resize when adding text, or text will increase its size when resizing the button.
+
+**Solution**
+
+<img src="p1/screenshot/responsivebuttons1.png" width="300">
+
+## Autolayout & Constrints
+
+**Assignment 12** - Create a responsive layout of the text box, review cards, and featured cards
+
+**Solution**
+
+<img src="p1/screenshot/responsivebuttons1.png" width="300">
+<img src="p1/screenshot/responsivebuttons1.png" width="300">
+<img src="p1/screenshot/responsivebuttons1.png" width="300">
+
+<img src="p1/screenrecords/wireframeanimation.mp4" width="600" >
